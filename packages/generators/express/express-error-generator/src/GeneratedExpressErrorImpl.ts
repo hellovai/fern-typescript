@@ -11,7 +11,7 @@ import {
     ts,
 } from "ts-morph";
 
-const ENABLE_ERROR_BODIES: boolean = false;
+const ENABLE_ERROR_BODIES: boolean = true;
 
 export declare namespace GeneratedExpressErrorImpl {
     export interface Init {
